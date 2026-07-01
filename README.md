@@ -24,9 +24,10 @@ I'm documenting my journey from beginner to Data Scientist/ML/AI engineer.
 - Expanding my knwoledge to the field of AI
 
 `Project 1`
-I am currently working on a hospitality dataset as a capstone project from Cohort 6 TechCrush bootcamp. The aim of this project is to build a simple Linear Regression model that can predict hotel revenue based on key booking and customer features. This project involved the application full data science workflow in a simplified, structured, and practical way, including data analysis, SQL, visualization, preprocessing, and basic machine learning. 
+- [x] I am currently working on a hospitality dataset as a capstone project from Cohort 6 TechCrush bootcamp. The aim of this project is to build a simple Linear Regression model that can predict hotel revenue based on key booking and customer features. This project involved the application full data science workflow in a simplified, structured, and practical way, including data analysis, SQL, visualization, preprocessing, and basic machine learning. 
 
 `Project 2`
+- [] 
 
 
 
